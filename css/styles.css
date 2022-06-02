@@ -4,6 +4,7 @@ img{
 }
 body{
     height: 100%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .centrar{
     text-align: center;
@@ -55,4 +56,16 @@ footer p{
 .iconos{
     color:white;
     font-size: 18px;
+}
+.edicion {
+    font-size:  35px;
+    background-image:url(https://www.fundacionaquae.org/wp-content/uploads/2020/04/Nuevas-formas-de-trabajo3-1-002.jpg);
+    background-size: contain;
+    color:green;
+    background-repeat: no-repeat;
+    
+}
+#home {letter-spacing: 1cm;
+       text-align: center; 
+
 }
